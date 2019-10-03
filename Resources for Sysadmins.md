@@ -1,5 +1,5 @@
 # Resources for Systems Administration
-So you want to be a Sysadmin... Alright well heres a few things I learned from
+So you want to be a Sysadmin...
 
 ### Podcasts
 1. [Security Now](https://pca.st/securitynow) 
@@ -31,3 +31,8 @@ So you want to be a Sysadmin... Alright well heres a few things I learned from
 7. [Linux Server Hacks Vol 2](https://www.amazon.com/Linux-Server-Hacks-Two-Troubleshooting/dp/0596100825/ref=sr_1_8?keywords=linux+hacks&qid=1569562747&s=books&sr=1-8) 
 8. [DNS and BIND (5th Edition)](https://www.amazon.com/DNS-BIND-5th-Cricket-Liu/dp/0596100574/ref=sr_1_1?keywords=dns+and+bind&qid=1569563380&sr=8-1)
 9. [The Unwritten Laws of Engineering](https://www.amazon.com/Unwritten-Laws-Engineering-Revised-Updated/dp/0791801624)
+
+### Youtube Videos
+[The Finer Art of Being a Senior Sysadmin](https://www.youtube.com/watch?v=ICQRE4Camj8)
+[I wanna be the guy : The arduous path to senior sysadmin or How to be a better system administrator](https://www.youtube.com/watch?v=bSAgQqa49nM)
+[MacAdmins Conference Channel](https://www.youtube.com/user/psumacconf/videos)
