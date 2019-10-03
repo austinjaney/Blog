@@ -1,4 +1,5 @@
-# Resources for Learning Systems Administration
+# Resources for Systems Administration
+So you want to be a Sysadmin... Alright well heres a few things I learned from
 
 ### Podcasts
 1. [Security Now](https://pca.st/securitynow) 
