@@ -33,6 +33,6 @@ So you want to be a Sysadmin...
 9. [The Unwritten Laws of Engineering](https://www.amazon.com/Unwritten-Laws-Engineering-Revised-Updated/dp/0791801624)
 
 ### Youtube Videos
-[The Finer Art of Being a Senior Sysadmin](https://www.youtube.com/watch?v=ICQRE4Camj8)
-[I wanna be the guy : The arduous path to senior sysadmin or How to be a better system administrator](https://www.youtube.com/watch?v=bSAgQqa49nM)
-[MacAdmins Conference Channel](https://www.youtube.com/user/psumacconf/videos)
+1. [The Finer Art of Being a Senior Sysadmin](https://www.youtube.com/watch?v=ICQRE4Camj8)
+2. [I wanna be the guy : The arduous path to senior sysadmin or How to be a better system administrator](https://www.youtube.com/watch?v=bSAgQqa49nM)
+3. [MacAdmins Conference Channel](https://www.youtube.com/user/psumacconf/videos)
