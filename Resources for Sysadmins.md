@@ -15,7 +15,7 @@ So you want to be a Sysadmin... Alright well heres a few things I learned from
 
 ### Websites
  1. [/r/sysadmin](http://reddit.com/r/sysadmin) 
- 2. [alterslash](http://alterslash.org)
+ 2. [Alterslash](http://alterslash.org)
  3. [Hacker News](https://news.ycombinator.com/)
  4. [Arstechnica](http://arstechnica.com)
  5. [Anandtech](https://www.anandtech.com/)
