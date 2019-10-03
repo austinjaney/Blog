@@ -1,4 +1,4 @@
-#The usual lecture from the local System Administrator
+# The usual lecture from the local System Administrator
 Systems administration is a complex web of everyday ethical situations.  Consider that the sysadmin runs into a problem where he/she encounters a file with salary information is not loading correctly due to a request from finance, the sysadmin knows its against company policy for him/her to know salary data but finance needs immediate assistance before they make changes to payroll.  Or consider that a company has decided to restructure, the sysadmin will need to work with HR to come up with a plan to safely disable accounts across the organization, coworkers who see it coming might try to make small talk of it, should the sysadmin lie?  Sysadmins whether we like it or not have for a long time now been a very critical underpinning of organizations in that we know things others can’t, see things others can’t and often become aware of private details by accident.  It is truly astonishing the windows people forget to close before asking you to take a seat.  The guidance below is given in Debian systems upon your first time using the sudo command.
 
 ```bash
