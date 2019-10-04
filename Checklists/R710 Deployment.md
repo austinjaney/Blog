@@ -6,8 +6,8 @@ This template is designed to aid the server build out process for Dell PowerEdge
 
 ### If its going to be a Hyper-v Host edit the following in the bios
 Disable C-states      - Disabled
-Disable C1E             - Disabled
-Execute Disabled    - Disabled
+Disable C1E           - Disabled
+Execute Disabled      - Disabled
 
 
 ### Firmware for Lifecycle Controller and iDRAC
