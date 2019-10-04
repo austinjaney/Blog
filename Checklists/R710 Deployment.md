@@ -32,7 +32,7 @@ Completed By:
 
 *When a Server is in repair*
 > Tape Build Sheet to Server
-> Make sure to communicate the status to needed players
+> Make sure to communicate the status to your team.
 
 - Fresh Thermal Paste 
 - Install Hardware to the desired system configuration 
