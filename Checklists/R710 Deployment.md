@@ -27,27 +27,27 @@ Drives Used:
 Completed By:
 
 *When Building a server to be placed in "Inventory”*
-- Tape Build Sheet to Server
-- Take Server to IT trailer for storage
+- [ ] Tape Build Sheet to Server
+- [ ] Take Server to IT trailer for storage
 
 *When a Server is in repair*
 > Tape Build Sheet to Server
 > Make sure to communicate the status to your team.
 
-- Fresh Thermal Paste 
-- Install Hardware to the desired system configuration 
-- Check BIOS Clock Time 
-- Upgrade Bios and firmware using dells CD 
-- Run onboard diagnostics 
-- Install Windows and Updates 
-- Name Ethernet Ports 1-4 
-- Enable Remote Desktop 
-- Update Firmware for Lifecycle Controller and iDRAC 
-- Set Hostname and Join to ncc.lan 
-- Move Server to the Servers OU 
-- Run Gpupdate /force 
-- Label Hardware with Hostname 
-- Add to OME 
-- Antivirus Install 
-- System Center Agent Installed 
-- Windows Activation
+- [ ] Fresh Thermal Paste 
+- [ ] Install Hardware to the desired system configuration 
+- [ ] Check BIOS Clock Time 
+- [ ] Upgrade Bios and firmware using dells CD 
+- [ ] Run onboard diagnostics 
+- [ ] Install Windows and Updates 
+- [ ] Name Ethernet Ports 1-4 
+- [ ] Enable Remote Desktop 
+- [ ] Update Firmware for Lifecycle Controller and iDRAC 
+- [ ] Set Hostname and Join to ncc.lan 
+- [ ] Move Server to the Servers OU 
+- [ ] Run Gpupdate /force 
+- [ ] Label Hardware with Hostname 
+- [ ] Add to OME 
+- [ ] Antivirus Install 
+- [ ] System Center Agent Installed 
+- [ ] Windows Activation
