@@ -22,3 +22,20 @@ You wander into a dark cave and encounter a grumpy old computer, you look to you
 *Sysinternals Suite as of June 28 2019*
 MD5: 0bf21987bcfcce217a4fbda399ce2b63
  [https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+
+### Windows CLI things
+
+Get the service tag of dell PC's from Command Prompt or Powershell
+```powershell
+wmic bios get serialnumber
+```
+
+Expire a computers kerberos ticket thus forcing the computer to get a new one this helps windows detect a change in AD OU's without rebooting so that you can run gpupdate /force without needing to reboot. Useful for systems that cant be shut down but do need to be moved in AD.
+```powershell
+klist -li 0x3e7 purge
+```
+
+Getting the group policy results from a workstation through psexec, replace $User-Logged-In with a logged in user.
+```powershell
+gpresult /user $User-Logged-In /scope computer /r
+```
