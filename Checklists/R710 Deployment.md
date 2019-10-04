@@ -5,9 +5,9 @@ This template is designed to aid the server build out process for Dell PowerEdge
 [Bootable ISO for R710 Firmware](https://dell.app.box.com/v/bootableR710)
 
 ### If its going to be a Hyper-v Host edit the following in the bios
-Disable C-states      - Disabled
-Disable C1E           - Disabled
-Execute Disabled      - Disabled
+1. Disable C-states      - Disabled
+2. Disable C1E           - Disabled
+3. Execute Disabled      - Disabled
 
 
 ### Firmware for Lifecycle Controller and iDRAC
