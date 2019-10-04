@@ -34,7 +34,7 @@ Completed By:
 > Tape Build Sheet to Server
 > Make sure to communicate the status to your team.
 
-- [ ] Fresh Thermal Paste 
+- [ ] Fresh Thermal Paste (If its a new refurbished unit)
 - [ ] Install Hardware to the desired system configuration 
 - [ ] Check BIOS Clock Time 
 - [ ] Upgrade Bios and firmware using dells CD 
