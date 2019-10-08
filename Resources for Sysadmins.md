@@ -10,7 +10,7 @@ So you want to be a Sysadmin...
 6. [Sans Stormcast](https://isc.sans.edu/podcast.html#stormcast) 
 7. [Random but Memorable](https://randombutmemorable.simplecast.com/) 
 8. [Hackable](https://hackablepodcast.com/episodes) 
-9. [Hacked](https://www.hackedpodcast.com/) 
+9. [Hacked](https://www.hackedpodcast.com/)
 10.[MacAdmins Podcast](http://podcast.macadmins.org/)
 
 ### Websites
