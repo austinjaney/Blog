@@ -11,7 +11,7 @@ So you want to be a Sysadmin...
 7. [Random but Memorable](https://randombutmemorable.simplecast.com/) 
 8. [Hackable](https://hackablepodcast.com/episodes) 
 9. [Hacked](https://www.hackedpodcast.com/)
-10.[MacAdmins Podcast](http://podcast.macadmins.org/)
+10. [MacAdmins Podcast](http://podcast.macadmins.org/)
 
 ### Websites
  1. [/r/sysadmin](http://reddit.com/r/sysadmin) 
