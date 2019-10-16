@@ -39,7 +39,8 @@ Completed By:
 - [ ] Check BIOS Clock Time 
 - [ ] Upgrade Bios and firmware using dells CD 
 - [ ] Run onboard diagnostics 
-- [ ] Install Windows and Updates 
+- [ ] Install Windows and Updates
+- [ ] APC PowerChute configuration or other UPS Settings
 - [ ] Name Ethernet Ports 1-4 
 - [ ] Enable Remote Desktop 
 - [ ] Update Firmware for Lifecycle Controller and iDRAC 
