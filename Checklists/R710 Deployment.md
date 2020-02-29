@@ -12,7 +12,9 @@ This template is designed to aid the server build out process for Dell PowerEdge
 
 ### Firmware for Lifecycle Controller and iDRAC
 [Lifecycle Controller 1.7.5](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=0wfgm&oscode=naa&productcode=poweredge-r710)
+
 [Lifecycle Controller 1.7.5 Repair Kit](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=80xj1&oscode=naa&productcode=poweredge-r710)
+
 [iDrac 6 Firmware Upgrade](https://www.dell.com/support/home/us/en/04/drivers/driversdetails?driverid=kpccc&oscode=naa&productcode=poweredge-r710)
 
 ### OMSA
